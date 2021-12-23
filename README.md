@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Rohit9988667680
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Rohit9988667680/Rohit9988667680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.git clone https://github.com/dhasirar/instax.git
+cd instax
+chmod +x instax.sh
+service tor start
+bash instax.s
